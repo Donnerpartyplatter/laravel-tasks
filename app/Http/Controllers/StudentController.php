@@ -27,3 +27,4 @@ class StudentController extends Controller
         return redirect('/register')->with('success', 'Student registered successfully!');
     }
 }
+#recommit
